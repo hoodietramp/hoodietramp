@@ -1,9 +1,9 @@
-<h1 align="center" height='30'>Hi there, I'm <a href="https://hoodietramp.github.io/" target="_blank">Kunal Jaglan</a> 
+<h1 align="center" height='30'>Hey, I'm <a href="https://hoodietramp.github.io/" target="_blank">Kunal Jaglan</a> 
 <img src='https://media.giphy.com/media/NCh5G1KuRsXPa/giphy.gif' width='200' ></h1> 
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>h00dy</b>,I am a Cyber-Security Enthusiast and a CTF player. I'd love to solve a ctf together.</p>
+  <p>a.k.a <b>h00dy</b> ,I am a Cyber-Security Enthusiast and a CTF player. I'd love to solve a ctf together.</p>
   
   <p><b>ADD ME THERE:</b></p>
   
@@ -18,7 +18,7 @@
 <h1>Ranks</h1>
 
 <p align="center">
-  <img alt="THM RANK HERE" src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png" alt="TryHackMe">
   
 </p>
 
