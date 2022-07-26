@@ -7,7 +7,7 @@
   
   <p><b>ADD ME THERE:</b></p>
   
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_kunaljaglan)](https://twitter.com/_kunaljaglan)
+[![Twitter Badge](https://img.shields.io/badge/-h00dy-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/_kunaljaglan)](https://twitter.com/_kunaljaglan)
 [![Linkedin Badge](https://img.shields.io/badge/-h00dy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunaljaglan)](https://www.linkedin.com/in/kunaljaglan)
 [![Instagram Badge](https://img.shields.io/badge/-h00dy-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/inimitablekunal)](https://www.instagram.com/inimitablekunal)
 [![Gmail Badge](https://img.shields.io/badge/-kunaljaglan14@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kunaljaglan14@gmail.com)](mailto:kunaljaglan14@gmail.com)  
@@ -22,5 +22,4 @@
   
 </p>
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_kunaljaglan">
 
