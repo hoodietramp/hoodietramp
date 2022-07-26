@@ -15,7 +15,7 @@
 
 
 <br><br>
-<h1>Ranks</h1>
+<h1>Rank On TryHackMe</h1>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png" alt="TryHackMe Rank">
