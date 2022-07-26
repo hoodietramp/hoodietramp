@@ -3,7 +3,7 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>h00dy</b> ,I am a Cyber-Security Enthusiast and a CTF player. I'd love to solve a ctf together.</p>
+  <p>a.k.a <b>h00dy</b>, I am a Cyber-Security Enthusiast and a CTF player. I'd love to solve a ctf together.</p>
   
   <p><b>ADD ME THERE:</b></p>
   
