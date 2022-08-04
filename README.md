@@ -25,9 +25,21 @@
 <hr>
 
 <br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=convoychat" />
+</a>
+
 <h2> Github Stats:<h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoodietramp&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoodietramp&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodietramp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h00dy&count_private=true&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h00dy&langs_count=2&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h00dy&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats) -->
