@@ -32,9 +32,13 @@
 <hr>
 
 <br><br>
-<h2> My Fav Repo: <h2>
+<h2> My Fav Repos: <h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&show_owner=hoodietramp)](https://github.com/hoodietramp/tmux_config)
+
+<br />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=custom-echo&show_owner=hoodietramp)](https://github.com/hoodietramp/custom-echo)
 
 <hr>
 
