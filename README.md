@@ -25,19 +25,21 @@
 <hr>
 
 <br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=convoychat" />
-</a>
-
 <h2> Github Stats:<h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoodietramp&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<br><br>
+<h2> My Fav Repo: <h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&show_owner=hoodietramp)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+<br><br>
+<h2>My Top Langs:<h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodietramp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
