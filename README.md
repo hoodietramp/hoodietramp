@@ -38,8 +38,6 @@
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=Custom-Echo-For-TryHackme-KOTH&show_owner=hoodietramp)](https://github.com/hoodietramp/Custom-Echo-For-TryHackme-KOTH)
-
 <hr>
 
 <br><br>
