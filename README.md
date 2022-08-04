@@ -18,7 +18,7 @@
 <h1>Rank On TryHackMe</h1>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png" alt="TryHackMe Rank">
+   <script src="https://tryhackme.com/badge/1101631"></script>
   
 </p>
 
