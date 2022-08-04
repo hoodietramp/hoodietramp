@@ -27,21 +27,21 @@
 <br><br>
 <h2> Github Stats:<h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoodietramp&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoodietramp&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
 <br><br>
 <h2> My Fav Repo: <h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&show_owner=hoodietramp)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&show_owner=hoodietramp)](https://github.com/hoodietramp/tmux_config)
 
 <hr>
 
 <br><br>
 <h2>My Top Langs:<h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodietramp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodietramp&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h00dy&count_private=true&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h00dy&langs_count=2&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h00dy&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats) -->
