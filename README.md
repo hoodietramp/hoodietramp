@@ -34,11 +34,11 @@
 <br><br>
 <h2> My Fav Repos: <h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config&show_owner=hoodietramp)](https://github.com/hoodietramp/tmux_config)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=tmux_config)](https://github.com/hoodietramp/tmux_config)
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=Custom-Echo-For-TryHackme-KOTH&show_owner=hoodietramp)](https://github.com/hoodietramp/Custom-Echo-For-TryHackme-KOTH)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodietramp&repo=Custom-Echo-For-TryHackme-KOTH)](https://github.com/hoodietramp/Custom-Echo-For-TryHackme-KOTH)
 
 <hr>
 
