@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm hoody</h1>
 
-<p align='center'><h3>Connect @ 🛜➖🛜➖🛜 </h3><br>
+<p align='center'><h3 align="center">Connect @ 🛜➖🛜➖🛜 </h3><br>
 <a href="https://www.linkedin.com/in/h00dy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/hoodietramp"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://h00dy.me"><img height=30" src="website.png"></a>&nbsp;&nbsp;
