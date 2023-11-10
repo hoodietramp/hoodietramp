@@ -28,7 +28,7 @@
 - 🚀 Postponing-sleep, it's a hacker life for me
 
 <br>
-<h2>Rank On TryHackMe</h2><hr>
+<h2>Rank On TryHackMe</h2>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png" alt="TryHackMe">
 </p>
