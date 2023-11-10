@@ -15,7 +15,7 @@
 <h3> 👩🏻‍💻 Penetration Tester | 💻 CyberSecurity Engineer | 🚀 Red Teamer </h3> 
 </div>
 
-<br><br>
+<br>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=hoodietramp&color=blueviolet alt=hoodietramp/> </p>
 
