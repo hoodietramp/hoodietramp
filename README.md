@@ -23,18 +23,12 @@
 
 - 📫 Reach me at **kunaljaglan14@gmail.com**
 
-- 👨‍💻 All of my writeups are available at [hashnode](https://hoody.hashnode.dev)
+- 👨‍💻 All of Socials are @ [Linktree](https://linktr.ee/hoodietramp)
 
-- 🚀 Postponing-sleep, it's a hacker life for me
+- 🚀 Postponing-sleep, it's a hacker life for me...★
 
 
-<h3>Rank On TryHackMe</h3>
+<!-- <h3>Rank On TryHackMe</h3>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png" alt="TryHackMe">
-</p>
-
-<div align="center">
-
-![hey](hey.gif)
-
-</div>
+</p> -->
