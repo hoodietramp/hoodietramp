@@ -24,7 +24,7 @@
 
 - 📫 Reach me at **kunaljaglan14@gmail.com**
 
-- 👨‍💻 All of Socials are @ [Linktree](https://linktr.ee/hoodietramp)
+- 👨‍💻 All of my Socials are @ [Linktree](https://linktr.ee/hoodietramp)
 
 - 🚀 Postponing-sleep, it's a hacker life for me...★
 
