@@ -6,7 +6,12 @@
 
 ```
 postponing-sleep, it's a hacker life for me...★
+
+- 📫 Reach me at kunaljaglan14@gmail.com
+- 👨‍💻 All of my Socials are @[Linktree] : https://linktr.ee/hoodietramp
 ```
+
+<br>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/h00dy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -15,9 +20,5 @@ postponing-sleep, it's a hacker life for me...★
 <a href="https://h00dy.me"><img height=30" src="website.png"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/0xh00dy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-<br>
-
-- 📫 Reach me at kunaljaglan14@gmail.com
-- 👨‍💻 All of my Socials are @ [Linktree](https://linktr.ee/hoodietramp)
 
 
