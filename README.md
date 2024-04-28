@@ -7,7 +7,7 @@
 ```
 postponing-sleep, it's a hacker life for me...★
 
-:~ With each keystroke, I strive further to the Dark Arts of Computing, devoting the better part of my life oscillating between Individual Contribution and maintaining a versatile skillset spanning the breadth of contemporary security practices, from to AppSec to NetSec to DevSecOps, with a firm emphasis on OffSec ensuring the ethos of hacking space and cyber world remain in me so that i may never lost sight of its inherent struggles. 
+:~ With each keystroke, I strive further to the Dark Arts of Computing, devoting the better part of my life oscillating between Individual Contribution and maintaining a versatile skillset spanning the breadth of contemporary security practices, from to AppSec to NetSec to DevSecOps, with a firm emphasis on OffSec ensuring the ethos of hacking space and cyber world remain in me so that i may never lose sight of its inherent struggles. 
 
     - I am my own worst critic. As a result, I allow myself the space to navigate burnouts and re-writing internet privacy rights when they're still left, and recently, probing the whimsy of the IoT Sphere, all from the comfort of my cubicle.
 
