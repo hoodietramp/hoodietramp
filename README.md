@@ -10,12 +10,10 @@ postponing-sleep, it's a hacker life for me...★
 :~ With each keystroke, I strive further to the Dark Arts of Computing, devoting the better part of my life oscillating between Individual Contribution and maintaining a versatile skillset spanning the breadth of contemporary security practices, with a firm emphasis on OffSec ensuring the ethos of hacking space and cyber world remain in me so that i may never lose sight of its inherent struggles. 
 
     - I am my own worst critic. As a result, I allow myself the space to navigate burnouts by hacking even more. I love doing it so much i just keep hacking! It's the best decision I've ever made and happily dedicating my whole life to this field, all from the comfort of my cubicle.
+
+- 👨‍💻 All of my Socials are @[Linktree] - https://linktr.ee/hoodietramp
 ```
 
-<br>
-<div style="text-align: center;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/h00dy.png" alt="Your Image Badge" />
-</div>
 <br>
 <p align='center'>
 <a href="https://www.linkedin.com/in/h00dy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
