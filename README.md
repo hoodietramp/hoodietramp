@@ -11,7 +11,7 @@ postponing-sleep, it's a hacker life for me...★
 
     - I am my own worst critic. As a result, I allow myself the space to navigate burnouts and re-writing internet privacy rights when they're still left, and recently, probing the whimsy of the IoT Sphere, all from the comfort of my cubicle.
 
-- 📫 Reach me at kunaljaglan14@gmail.com
+- 📫 Reach me at h00dy.infosec@gmail.com
 - 👨‍💻 All of my Socials are @[Linktree] - https://linktr.ee/hoodietramp
 ```
 
