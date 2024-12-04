@@ -22,5 +22,8 @@ postponing-sleep, it's a hacker life for me...★
 <a href="https://twitter.com/hoodietramp"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/hoodietramp"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://h00dy.me"><img height=30" src="website.png"></a>&nbsp;&nbsp;
-<a href='https://ko-fi.com/h00dy' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://ko-fi.com/Y8Y016YMQZ" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" style="height: auto;">
+</a>
+
 
