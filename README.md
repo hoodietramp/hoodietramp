@@ -2,7 +2,7 @@
 
 ```python
 def h00dy():
-    """postponing-sleep, it's a hacker life for me...★"""
+    """social engineer / hacker / red team"""
     findmehere = {
         "Discord": "@hoodietramp",
         "YouTube": "youtube.com/@hoodietramp",
