@@ -5,7 +5,7 @@ def h00dy():
     """social engineer / hacker / red team"""
     findmehere = {
         "youtube": "youtube.com/@hoodietramp",
-        "blog": "h00dy.gitbook.io"
+        "twitter": "twitter.com/hoodietramp"
     }
     for k, v in findmehere.items():
         print(f"{k:>9}: {v}")
